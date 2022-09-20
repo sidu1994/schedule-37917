@@ -71,10 +71,21 @@
 # 実装予定の機能
 
 # データーベース設計
+  
+  [![Image from Gyazo](https://i.gyazo.com/49b1224c2e682b3284d119cf0eb973b5.png)](https://gyazo.com/49b1224c2e682b3284d119cf0eb973b5)
 
 # 画面遷移図
+  
+[![Image from Gyazo](https://i.gyazo.com/3b519f72a089b15059018d1e77ac2f4b.png)](https://gyazo.com/3b519f72a089b15059018d1e77ac2f4b)
+  
 
 # 開発環境
+  
+* フロントエンド
+* バックエンド
+* インフラ
+* テキストエディタ
+* タスク管理
 
 # ローカルでの動作方法
 
